@@ -4,6 +4,7 @@
 
 Managing administrative tasks in a school setting can be a daunting challenge, particularly with the evolving complexities associated with class planning and grade level management. The administrative staff plays a vital role in ensuring the smooth operation of educational institutions, yet they often face obstacles in effectively organizing and managing various aspects of school life. As educational systems continue to evolve and adapt to changing needs, it becomes increasingly important to address these challenges head-on to streamline administrative processes and enhance overall efficiency.
 In this context, the Student Management Ailac project aims to explore innovative solutions to alleviate the burden on administrative staff and improve the management of schools. By leveraging technologies such as JavaScript, HTML5, CSS3, Bootstrap, PHP, and MySQL, this project seeks to provide a comprehensive platform for student information management, user authentication, and responsive design to ensure compatibility across devices for a seamless user experience.
+https://github.com/FARAHrafah123/managementscoole/blob/master/picture.png
 
 # Team
 
